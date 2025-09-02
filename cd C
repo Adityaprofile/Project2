@@ -1,0 +1,26 @@
+[1mdiff --git a/app.js b/app.js[m
+[1mindex cc2a274..98e5846 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1 +1 @@[m
+[31m-// add new feature - form[m
+\ No newline at end of file[m
+[32m+[m[32m// add new feature - button[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex d01f779..e69de29 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,11 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    [m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
